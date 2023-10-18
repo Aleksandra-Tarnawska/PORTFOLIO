@@ -50,5 +50,5 @@ I am passionate about all kinds of physical activity from the gym to running.
 - "Moja pierwsza strona internetowa w HTML5 i CSS3" Damian Wielgosik
 
 ## My project
--[Challenge: Zostań Testerem Manualnym](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra)
+- [Challenge: Zostań Testerem Manualnym](https://github.com/Aleksandra-Tarnawska/challenge_portfolio_Aleksandra)
 
