@@ -8,8 +8,7 @@ I am passionate about all kinds of physical activity from the gym to running.
 # Tools
 
 # Tech skills
-- ![atlassian_jira_logo_icon_170511](https://github.com/Aleksandra-Tarnawska/PORTFOLIO/assets/75180405/ef2f0b25-0eca-415e-a73c-e2e3e8fd3de9)
-Jira - śledzenie
+<i class="fab fa-jira"></i>Jira - śledzenie
 - Azure Devops - project management
 - 
 - COMARCH ERP systems and databases (Comarch e-Sklep, Comarch B2B, Comarch ERP Optima, ERP XT, ERP XL, ERP Altum)
